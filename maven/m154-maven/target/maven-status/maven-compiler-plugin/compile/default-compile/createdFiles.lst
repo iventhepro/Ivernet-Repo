@@ -1,0 +1,7 @@
+main\java\crm\business\BCCustomer.class
+main\java\crm\business\CustomerFactory.class
+main\java\crm\persistence\ICustomerDAO.class
+main\java\crm\business\AbstractCustomer.class
+main\java\crm\business\ICustomer.class
+main\java\crm\persistence\CustomerDAOFactory.class
+main\java\crm\persistence\CustomerDataAccessMock.class
